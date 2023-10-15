@@ -1,0 +1,60 @@
+.container{
+    border:1px solid black;
+    margin: 0 auto;
+    width: 560px;
+    height: 305px;
+    background: silver;
+    
+}
+.input{
+    border: none;
+}
+.container input{
+    width: 390px;
+    height: 70px;
+    display: block;
+    background: silver;
+    border-radius: 20px;
+    
+}
+.wrap{
+    display: flex;
+    width: 50px;
+    display: block;
+    height: 175px;
+    margin-right: 10px;
+ 
+}
+.wrap button{
+    width: 50px;
+    margin-top: 6px;
+    height: 70px;
+    border: none;
+    border-radius: 8px  ;
+    
+}
+.number{
+    width: 450px;
+    
+}
+.box1{
+    display: block;
+    margin-top: 3px;
+    margin-left: 135px;
+}
+.number button{
+    width: 130px;
+    margin-top: 6px;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    
+}
+.box{
+    display: flex;
+    
+}
+.wrap button{
+   
+    width: 50px;
+}
